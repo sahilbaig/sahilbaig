@@ -6,7 +6,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/sahilbaig/)
 
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilbaig&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbaig)](https://github.com/sahilbaig/github-readme-stats)
 <!--
