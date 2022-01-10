@@ -2,7 +2,7 @@
 - :zap: I love math, programming, web designing, and books
 - 🌱 I’m trying to apply my skills to real world projects
 - 📫 How to find me: 
-  - :email: [Medium articles](mailto@sahilbaig.me@gmail.com)
+  - :email: [E-Mail](mailto@sahilbaig.me@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/sahilbaig/)
 <!--
 **sahilbaig/sahilbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
