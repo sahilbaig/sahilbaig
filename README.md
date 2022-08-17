@@ -5,10 +5,10 @@ Currently a CSE student at SRM,Chennai . Looking forward to learn and build.<br>
 
 # 🧰 My toolbox
 
+<p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
- 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-
+<img  src="https://live.staticflickr.com/7306/16407404782_8b9c57eab3_w.jpg" alt="ES6" width="50" height="50"/>
+</p>
 
 
 
