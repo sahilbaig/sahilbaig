@@ -1,7 +1,6 @@
 # 👋 Hi there.
 
-Hi.I am Sahil. I enjoy coding stuffs and reading novels(and also meming).<br>
-Currently a CSE student at SRM,Chennai . Looking forward to learn and build.<br>
+Hi.I am Sahil. I enjoy coding stuffs and reading novels(and also meming).<br>. Looking forward to learn and build.<br>
 
 # 🧰 My toolbox
 
