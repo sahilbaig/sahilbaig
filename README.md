@@ -7,34 +7,9 @@
 
 
 # 🧰 My toolbox
+###Languages
 
-<section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
-<table>
-  <tr>
-    <td valign="top">
-      ###Languages
-      <ol style="display:flex">
-        <li> JavaScript</li>
-        <li> Python </li>
-        <li> C/C++</li>
-      </ol>
-    </td>
-    <td valign="top">
-      <ol>
-        <li>what?? </li>
-      </ol>
-    </td>
-  </tr>
-</table>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <!-- <p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img  src="https://i0.wp.com/www.in5days.tech/wp-content/uploads/2018/01/es6-logo-1.png?ssl=1" alt="ES6" width="50" height="50"/>
