@@ -36,6 +36,22 @@
  <li> HTML/CSS</li>
 </ol>
 
+<section markdown="1" style="display: flex;">
+
+<div class="my-block" markdown="1"> 
+## Is your company, department or team..."
+    
+* Waiting for solutions ? 
+</div>
+
+<div class="my-block" markdown="1">
+## Tip "How to be more effective "
+
+* You could do this and that
+</div>
+
+</section>
+
  
 <!-- <p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
