@@ -29,9 +29,6 @@
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mysql.png" alt="MySQL" width="70" height="70"/> &nbsp;
 </section>
 
-
-</p> -->
-
 # 🔍 : Stats
 
 
