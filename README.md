@@ -13,28 +13,24 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20220730085405" alt="Python" width="50" height="50"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++" width="50" height="50"/>
 </section>
-
-### Frameworks
+### Frameworks :
 <section float="left">
  <img  src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt="JavaScript" width="70" height="70" /> &nbsp; 
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt="Node" width="70" height="70"/> &nbsp;
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt="Django" width="70" height="70"/> &nbsp;
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/react.png" alt="React" width="70" height="70"/> 
 </section>
-
-### Frameworks
+### Databases :
 <section float="left">
- <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt="Express" width="70" height="70"/> &nbsp; 
-<img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt="Node" width="70" height="70"/> &nbsp;
-<img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt="Django" width="70" height="70"/> &nbsp;
-<img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/react.png" alt="React" width="70" height="70"/> 
-</section>
-### Frameworks
-<!-- <section float="left">
- <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mongo.png" alt="MongoDB" width="70" height="70"/> &nbsp;
- <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/psql.png" alt="PostgresSQL" width="70" height="70"/> &nbsp;
+ <img  src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mongo.png" alt="MongoDB" width="70" height="70" /> &nbsp; 
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/psql.png" alt="PSQL" width="70" height="70"/> &nbsp;
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mysql.png" alt="MySQL" width="70" height="70"/> &nbsp;
-</section> -->
+</section>
+### Skills and Tools :
+<section float="left">
+ <img  src="https://github.com/sahilbaig/images/blob/main/pngwing.com.png" alt="Github" width="70" height="70" /> &nbsp; 
+</section>
+
 
 # 🔍 : Stats
 
