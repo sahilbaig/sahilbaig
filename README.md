@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt="Node" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt="Django" width="50" height="50"/> &nbsp;
  <img src="https://camo.githubusercontent.com/bcb17502d248ba576eca91ed23e14362a751e9c47969dbe22b869c3a9b629d8c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635265486d4f75464f567950386575726a6d325375787659676f486a685353474e5a2d51755a466e36634e494f694c474d755156386138504e50784235734573465436665f3826757371703d434155" alt="Flask" width="50" height="50"/> &nbsp;
- 
+ <img src="" alt="Django" width="50" height="50"/> &nbsp;
 </section>
 <!-- <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20220730085405" alt="Python" width="50" height="50"/>
