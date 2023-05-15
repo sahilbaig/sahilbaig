@@ -1,6 +1,6 @@
 # 👋 Hi there.
 
-<p>I am Sahil , a <strong>Full Stack Developer</strong> pursuing my Bachelors in <strong>Computer Science</strong>
+<p>I am Sahil , a <strong>Full Stack Developer</strong> pursuing my Bachelors in <strong>Computer Science</strong><br>
 :wrench: <p>I enjoy building stuffs and am extremely enthusiast about learning new technology. </p>
 
 <!-- # 🧰 My toolbox
