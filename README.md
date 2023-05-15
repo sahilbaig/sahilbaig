@@ -1,6 +1,6 @@
 # 👋 Hi there.
 
-Hi.I am Sahil. I enjoy coding stuffs and reading novels(and also meming).<br>. Looking forward to learn and build.<br>
+<p>I am Sahil
 
 <!-- # 🧰 My toolbox
 
