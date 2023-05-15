@@ -8,7 +8,12 @@
 
 # 🧰 My toolbox
 
-<p float="left">
+<ol>
+  <li>js  </li>
+</ol>
+
+ 
+<!-- <p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img  src="https://i0.wp.com/www.in5days.tech/wp-content/uploads/2018/01/es6-logo-1.png?ssl=1" alt="ES6" width="50" height="50"/>
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React" width="50" height="50"/>
@@ -22,7 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/759px-Tux.svg.png?20220320193426" alt="Linux" width="50" height="50"/>
 </p>
 
-</p>
+</p> -->
 
 # 🔍 : Stats
 
