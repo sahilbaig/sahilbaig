@@ -16,7 +16,7 @@
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt="Django" width="70" height="70"/> &nbsp;
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/react.png" alt="React" width="70" height="70"/> &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt="Git" width="70" height="70"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/Ubuntu.png" alt="Ubuntu" width="70" height="70"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/ubuntu.png" alt="Ubuntu" width="70" height="70"/> &nbsp;
   <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/linux.png" alt="Ubuntu" width="70" height="70"/> &nbsp;
  
  </section>
