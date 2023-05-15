@@ -7,34 +7,12 @@
 
 
 # 🧰 My toolbox
-<div style = "display: flex , flex-direction: column">
-  <div>
-   <ol>
-    <li> ExpressJS</li>
-    <li> NodeJS</li>
-    <li> Django</li>
-    <li> Flask</li>
-  </ol>
-  </div>
- 
-  <div>
-   <p>okkkk</p>
- </div>
-</div>
-### Backend
-<ol>
- <li> ExpressJS</li>
- <li> NodeJS</li>
- <li> Django</li>
- <li> Flask</li>
-</ol>
-
-### Frontend
-<ol>
- <li> React</li>
- <li> Jinja</li>
- <li> HTML/CSS</li>
-</ol> 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
 <!-- <p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img  src="https://i0.wp.com/www.in5days.tech/wp-content/uploads/2018/01/es6-logo-1.png?ssl=1" alt="ES6" width="50" height="50"/>
