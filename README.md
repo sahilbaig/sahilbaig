@@ -2,7 +2,7 @@
 
 <p>I am Sahil , a <strong>Full Stack Developer</strong> pursuing my Bachelors in <strong>Computer Science</strong><br>
 <p> :wrench: I enjoy building stuffs and am extremely enthusiast about learning new technology. </p>
-<p> :video_game:  Outside the world of tech I enjoy playing video games, working out , reading and mmaking memes. </p> 
+<p> :video_game:  Outside the world of tech I enjoy playing video games, working out , reading and memeing. </p> 
 
 
 
