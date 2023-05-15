@@ -19,6 +19,7 @@
  <img  src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt="JavaScript" width="70" height="70" /> &nbsp; 
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt="Node" width="70" height="70"/> &nbsp;
  <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt="Django" width="70" height="70"/> &nbsp;
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/react.png" alt="React" width="70" height="70"/> 
 </section>
 
 ### Frameworks
