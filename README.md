@@ -17,6 +17,7 @@
 ### Frameworks
 <section float="left">
  <img  src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt="JavaScript" width="70" height="70" /> &nbsp; 
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt="Node" width="70" height="70"/> &nbsp;
 </section>
 
 ### Frameworks
