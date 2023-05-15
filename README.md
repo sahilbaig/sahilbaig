@@ -10,8 +10,11 @@
 <table>
   <tr>
     <td valign="top">
+      ###Languages
       <ol>
-        <li> somethinng</li>
+        <li> JavaScript</li>
+        <li> Python </li>
+        <li> C/C++</li>
       </ol>
     </td>
     <td valign="top">
