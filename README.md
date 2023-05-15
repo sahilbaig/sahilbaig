@@ -7,7 +7,7 @@
 
 
 # 🧰 My toolbox
-<div style = "display: flex">
+<div style = "display: flex , flex-direction: column">
   <div>
    <ol>
     <li> ExpressJS</li>
@@ -34,25 +34,7 @@
  <li> React</li>
  <li> Jinja</li>
  <li> HTML/CSS</li>
-</ol>
-
-<section markdown="1" style="display: flex;">
-
-<div class="my-block" markdown="1"> 
-## Is your company, department or team..."
-    
-* Waiting for solutions ? 
-</div>
-
-<div class="my-block" markdown="1">
-## Tip "How to be more effective "
-
-* You could do this and that
-</div>
-
-</section>
-
- 
+</ol> 
 <!-- <p float="left">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img  src="https://i0.wp.com/www.in5days.tech/wp-content/uploads/2018/01/es6-logo-1.png?ssl=1" alt="ES6" width="50" height="50"/>
