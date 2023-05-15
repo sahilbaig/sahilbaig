@@ -24,7 +24,9 @@
 </section>
 ### Databases
 <section float = "left">
- <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="70" height="70"/> &nbsp; 
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mongo.png" alt="MongoDB" width="70" height="70"/> &nbsp;
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/psql.png" alt="PostgresSQL" width="70" height="70"/> &nbsp;
+ <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mysql.png" alt="MySQL" width="70" height="70"/> &nbsp;
 </section>
 
 
