@@ -11,7 +11,7 @@
   <tr>
     <td valign="top">
       ###Languages
-      <ol>
+      <ol style="display:flex">
         <li> JavaScript</li>
         <li> Python </li>
         <li> C/C++</li>
