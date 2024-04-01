@@ -20,11 +20,3 @@
   <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/linux.png" alt="Ubuntu" width="70" height="70"/> &nbsp;
  
  </section>
-
-# 🔍 : Stats
-
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilbaig&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbaig&hide=ruby)](https://github.com/sahilbaig/github-readme-stats)
-
-<!--
