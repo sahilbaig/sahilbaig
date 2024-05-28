@@ -6,7 +6,8 @@
 
 
 
-# 🧰 My toolbox
+# 🧰 Skills
+## Languages
 <section float="left">
  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" /> &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20220730085405" alt="Python" width="50" height="50"/> 
