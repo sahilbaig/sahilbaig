@@ -7,7 +7,9 @@
 
 
 # 🧰 Skills
-### Languages
+#### Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <section float="left">
  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" /> &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20220730085405" alt="Python" width="50" height="50"/> 
@@ -22,7 +24,7 @@
 
   <img src=" 	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E // javascript 
+ <!-- // javascript 
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white // c++
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue // python 
  	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white // ts
@@ -33,10 +35,10 @@ https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoC
 https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white // express
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gree // django
 
-https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white // nextjs
+<!-- https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white // nextjs
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB // react
 https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white // steam
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white // css
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white // css --> -->
 
 
  
