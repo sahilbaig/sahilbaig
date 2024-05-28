@@ -1,6 +1,6 @@
 # 👋 Hi there.
 
-I am Sahil, a **Full Stack Developer** pursuing my Bachelors in **Computer Science**.
+I am Sahil, a **Full Stack Developer** 
 
 :wrench: I enjoy building stuff and am extremely enthusiastic about learning new technology.
 
@@ -11,27 +11,26 @@ I am Sahil, a **Full Stack Developer** pursuing my Bachelors in **Computer Scien
 ## Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://example.com/javascript)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://example.com/cpp)
-[![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20220730085405)](https://example.com/python)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://example.com/typescript)
 
 ## Backend Frameworks
 
-[![Express](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png)](https://example.com/express)
-[![Node.js](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png)](https://example.com/node)
-[![Django](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png)](https://example.com/django)
+[![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://example.com/express)
+[![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://example.com/node)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://example.com/django)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://example.com/flask)
 
 ## Frontend Frameworks
-[![React](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/react.png)](https://example.com/react)
-
+[![React]( 	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)](https://example.com/react)
+[![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://example.com/react)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 	)](https://example.com/react)
 ## Databases
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://example.com/mongodb)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://example.com/postgresql)
 
-## Operating Systems
-
-[![Ubuntu](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/ubuntu.png)](https://example.com/ubuntu)
-[![Linux](https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/linux.png)](https://example.com/linux)
+## Miscellaneous
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac)](https://example.com/linux)
 
 
