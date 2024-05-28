@@ -20,3 +20,4 @@
   <img src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/linux.png" alt="Ubuntu" width="70" height="70"/> &nbsp;
  
  </section>
+<img src=" 	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
