@@ -1,11 +1,6 @@
 # 👋 Hi there.
 
-I am Sahil, a **Full Stack Developer**  
-
-:wrench: I enjoy building stuff and am extremely enthusiastic about learning new technology.  
-
-:video_game: Outside the world of tech, I enjoy playing video games, working out, reading, and memeing.  
-
+Whatever you find here : https://www.youtube.com/watch?v=wixynJCGQq4
 ## 🧰 Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://example.com/javascript)
